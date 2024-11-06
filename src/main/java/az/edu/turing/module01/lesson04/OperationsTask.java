@@ -11,7 +11,7 @@ public class OperationsTask {
 
         System.out.printf("cavab=%d\n", num);
         System.out.println("cavab=" + a);
-        System.out.printf("cavab=%d", b);
+        System.out.printf("cavab=%d\n", b);
         System.out.println("cavab=" + c);
     }
 }
